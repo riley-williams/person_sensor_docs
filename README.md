@@ -292,6 +292,10 @@ adding it to this section of the documentation. We also collect maker guides at
 
 [instructables.com/Facial-Recognition-Using-the-Person-Sensor-and-Pic/](https://www.instructables.com/Facial-Recognition-Using-the-Person-Sensor-and-Pic/)
 
+#### Rust embedded-hal driver
+
+[github.com/riley-williams/person-sensor](https://github.com/riley-williams/person-sensor)
+
 ## Privacy
 This module includes an image sensor, and we want to make sure that this doesn’t
 pose a threat to any of our users’ privacy. We’ve designed the module so that it
